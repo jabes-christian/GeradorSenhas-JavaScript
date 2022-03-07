@@ -42,7 +42,7 @@ body {
 
 .button-cta {
     height: 40px;
-    background-color: #34a323;
+    background-color: #8f3c0c;
     border: 0;
     border-radius: 5px;
     cursor: pointer;
@@ -53,8 +53,8 @@ body {
 }
 
 .button-cta:hover {
-    background-color:#144b0c;
-    transition: 0.2s;
+    background-color:#217a13;
+    transition: 0.3s;
     
 }
 
